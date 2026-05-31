@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Crafting a traceable GenAI evaluation platform and smart Text2SQL workflows at Nagarro.<br>👯 I’m looking to collaborate on Open-source GenAI frameworks and innovative Agentic AI solutions.<br>🤝 I’m looking for help with Mastering complex data sets and the nuances of Responsible AI.<br>🌱 I’m currently learning Diving deep into Gemini Multimodality and advanced Multimodal RAG pipelines.<br>💬 Ask me about Training over 1,000 data scientists or how I slashed network downtime by 90%.<br>⚡ Fun fact I’m a passionate photographer who brings an eye for visual patterns into every AI solution I design.
+🔭 I’m currently working on Crafting a traceable GenAI evaluation platform and smart Text2SQL workflows.<br>👯 I’m looking to collaborate on Open-source GenAI frameworks and innovative Agentic AI solutions.<br>🤝 I’m looking for help with Mastering complex data sets and the nuances of Responsible AI.<br>🌱 I’m currently learning Diving deep into Gemini Multimodality and advanced Multimodal RAG pipelines.<br>💬 Ask me about Training over 1,000 data scientists or how I slashed network downtime by 90%.<br>⚡ Fun fact I’m a passionate photographer who brings an eye for visual patterns into every AI solution I design.
 
 
 ## 🌐 Socials:
